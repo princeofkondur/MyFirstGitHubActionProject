@@ -12,4 +12,4 @@ As a demo, it prints 🎉 Hello, GitHub Actions! to the logs.
 Fork this repo or clone it.
 Push a commit to the main branch.
 Go to the Actions tab → You’ll see the workflow run.
-Open the logs → You should see:
+Open the logs → You should see all the revisions made
