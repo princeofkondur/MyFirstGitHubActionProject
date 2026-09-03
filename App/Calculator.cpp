@@ -1,9 +1,11 @@
-#include<iostream>
-using namespace std;
-int add(int , int);
+#include <iostream>
 
-int add(int x, int y)
+int main()
 {
-	return x + y;
-}
+    int a = 10;
+    int b = 20;
 
+    std::cout << "Addition: " << a + b << std::endl;
+
+    return 0;
+}
